@@ -1,0 +1,19 @@
+{
+  "name": "web_components_vue",
+  "version": "1.0.0",
+  "description": "This project is about web development by vue.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duhenique/web_components_vue.git"
+  },
+  "author": "Eduardo Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duhenique/web_components_vue/issues"
+  },
+  "homepage": "https://github.com/duhenique/web_components_vue#readme"
+}
